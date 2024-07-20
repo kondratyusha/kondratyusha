@@ -18,10 +18,24 @@ I am always open to new opportunities and collaborations. Feel free to connect w
 ## Skills
 
 - C/C++, Java
+
+- NVIDIA CUDA, Swift, SQL, R
+
 - Python
     - pandas, numpy, seaborn, scipy.stats, patsy, and sklearn
-- NVIDIA CUDA, Swift, SQL, R
-- Advanced understanding of computer science principles, algorithms, and data structures
+
+- Advanced understanding of computer science principles
+    - Parallel Computing
+    - Advanced Data Structures
+    - Design and Analysis of Algorithms
+
+- Advanced problem-solving skills in several areas of mathematics
+    - Numerical Optimization: Linear Programming
+    - Numerical Optimization: Nonlinear Programming
+    - Discrete Mathematics and Graph Theory
+    - Enumerative Combinatorics
+    - Statistical Methods
+    - Modern Cryptography
 
 ## Projects
 
