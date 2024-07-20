@@ -9,7 +9,8 @@ I am always open to new opportunities and collaborations. Feel free to connect w
 ## Education
 
 - **University of California San Diego**
-    - B. S., Mathematics – Computer Science | June 2024  
+    - B. S., Mathematics – Computer Science | June 2024
+    
 - **Santa Monica College** (Graduated with High Honors)
     - A. S., Computer Science | June 2021  
     - A. S., Computer Programming | June 2021
