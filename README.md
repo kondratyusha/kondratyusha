@@ -21,6 +21,18 @@ I am always open to new opportunities and collaborations. Feel free to connect w
 - NVIDIA CUDA, Swift, SQL, R
 - Advanced understanding of computer science principles, algorithms, and data structures
 
+## Projects
+
+- CSE 160 (Introduction to Parallel Computing) Individual Project
+    - Implemented and optimized the forward pass of a convolution layer used to perform inference for layers for the mini-dnn-cpp (Mini-DNN) framework for implementing the modified LeNet-5 (Convolutional Neural Network)
+    - My optimized CUDA solution was in top 5 for the academic year
+    - Optimizations include use of cache, constant, and shared memory, matrix unroll, and tiled matrix multiplication.
+- COGS 108 (Data Science in Practice) Group Project
+    - Answered question “Is the relationship between the level of educational degree and income in the U.S. significant even
+after regarding the external factors such as race, gender, and age?”
+    - Used Jupyter notebook with Python and open-source data sets
+    - Analysed data with the usage of t-test and linear regression model with pandas, numpy, seaborn, scipy.stats, patsy, and sklearn.
+
 <!--
 **kondratyusha/kondratyusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
