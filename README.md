@@ -17,7 +17,9 @@ I am always open to new opportunities and collaborations. Feel free to connect w
 
 ## Skills
 
-- C/C++, Java, Python
+- C/C++, Java
+- Python
+    - pandas, numpy, seaborn, scipy.stats, patsy, and sklearn
 - NVIDIA CUDA, Swift, SQL, R
 - Advanced understanding of computer science principles, algorithms, and data structures
 
